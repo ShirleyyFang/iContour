@@ -1,6 +1,6 @@
 # iContour
 
-## Timeline
+### Timeline
 
 | Design | Development |
 | -------| ----------- |
