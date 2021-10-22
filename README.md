@@ -4,4 +4,4 @@
 
 | Design | Development | Estimated deadline  |
 | -------| ----------- | ------------------- |
-| Gather User Requirement|----|
+| Gather user requirements| Gather user requirements ||
