@@ -2,5 +2,6 @@
 
 ### Timeline
 
-| Design | Development |
-| -------| ----------- |
+| Design | Development | Estimated deadline  |
+| -------| ----------- | ------------------- |
+| Gather User Requirement||
