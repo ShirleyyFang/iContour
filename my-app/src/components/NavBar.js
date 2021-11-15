@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import {NavLink} from 'react-router-dom';
 import { Layout, Menu, Drawer, Button, Form, Input, Space, Row, Col, Select, Checkbox} from 'antd';
 import 'antd/dist/antd.css';
 
@@ -41,7 +42,7 @@ export default function NavBar(){
           <Menu.Item>In the News</Menu.Item>
           <Menu.Item>Testimonials</Menu.Item>
         </SubMenu>
-        <Menu.Item >Cases</Menu.Item>
+        <Menu.Item ><NavLink to = '/cases'>Cases</NavLink></Menu.Item>
         <SubMenu title = "Help">
           <Menu.Item>How to Use</Menu.Item>
           <Menu.Item>Fundamentals</Menu.Item>
