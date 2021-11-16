@@ -66,7 +66,6 @@ function Profile() {
         </Fragment>
     );
 };
-
 function onChange(e) {
     console.log(`checked = ${e.target.checked}`);
   }
